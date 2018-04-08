@@ -1,4 +1,4 @@
-# Logs
+npm install uglify-js -gnpm install uglify-js -g# Logs
 logs
 *.log
 npm-debug.log*
